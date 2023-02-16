@@ -13,7 +13,7 @@ def permutacao(l, inicio=0):
 # Função para encontrar a melhor rota, recebe as permutações e as coordenadas do arquivo que contém a matriz de entrada  
 def melhor_rota(p, c): 
     custo_minimo = float("inf")
-    melhor_rota = []
+    melhor_percuso = []
 
     for rotas in p: 
         custo_atual = 0
@@ -26,9 +26,9 @@ def melhor_rota(p, c):
         
         if custo_atual   < custo_minimo:
             custo_minimo = custo_atual
-            melhor_rota  = rotas
+            melhor_percuso  = rotas
 
-    return  melhor_rota[1:-1], custo_minimo
+    return  melhor_percuso[1:-1], custo_minimo
     
 # Abre o arquivo .txt que contém os dados da matriz
 arquivo = open('file','r')
@@ -51,5 +51,4 @@ pontos_entregas.remove('R')
 # Funçãa (melhor_rota) chama função(permutacao) para calcular o melhor percuso.
 percurso = melhor_rota(permutacao(pontos_entregas),coordenadas)  
 print(f"{' '.join(percurso[0])}")
-
 
