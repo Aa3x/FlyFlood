@@ -1,4 +1,4 @@
-teste 1 - 4 pontos
+teste 1 - 4 pontos (Entrada padrão do Projeto Flyflood)
 
 4 5
 0 0 0 0 D 
@@ -6,7 +6,7 @@ teste 1 - 4 pontos
 0 0 0 0 C 
 R 0 B 0 0     
 
-A D C B, 14
+A D C B, 14 danômetros
 
 
 
@@ -20,11 +20,11 @@ R 0 0 0 0 0 A
 0 0 0 0 P 0 0
 0 0 X 0 0 0 0
 
-D A C P X B, 22
+D A C P X B, 22 danômetros
 
 
 
-teste 3 - 8 pontos
+teste 3 - 8 pontos 
 
 8 9 
 R 0 0 0 0 0 C 0 0 
@@ -53,12 +53,12 @@ teste 4 - 10 pontos
 0 0 X 0 0 0 0 0 0 0 0
 0 0 0 B 0 0 0 0 0 0 0  
 
-L G A J E X B C D F, 38
+L G A J E X B C D F, 38 danômetros
 
 
 
 
-teste 5 - 12 pontos
+teste 5 - 12 pontos (Sem informações)
 
 12 13
 0 0 0 0 0 0 0 L 0 0 0 0
