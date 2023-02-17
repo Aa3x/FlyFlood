@@ -8,3 +8,5 @@ O formato do arquivo de entrada será o seguinte para a matriz de exemplo.
 0 A 0 0 0
 0 0 0 0 C
 R 0 B 0 0
+
+
