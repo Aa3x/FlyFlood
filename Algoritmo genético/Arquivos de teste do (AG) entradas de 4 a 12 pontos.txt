@@ -1,3 +1,6 @@
+OBS: A última linha contendo a quantidade de pontos será desconsiderada durante a leitura no próprio algoritmo. 
+Portanto, é possível copiar essa linha juntamente com as coordenadas fornecidas.
+
 D 0 4
 A 1 1
 C 2 4
