@@ -8,7 +8,7 @@ from math import cos, radians
 Algoritmo Genético para o problema do caxeiro viajante, sem elitismo e utilizando o
   operador de crossover pmx.
 
-OBS: os dados de entrada do Algoritmo está na linha 154. 
+OBS: os dados de entrada do Algoritmo está na linha 147. 
 """
 
 # Função que gera a população inicial do algoritmo
