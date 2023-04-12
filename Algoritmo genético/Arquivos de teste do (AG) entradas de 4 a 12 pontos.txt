@@ -12,7 +12,7 @@ C 2 4
 B 3 2
 P 4 4
 X 5 2
-6 pontos - 
+6 pontos 
 
 
 R 0 0
